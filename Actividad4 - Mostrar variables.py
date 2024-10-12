@@ -1,4 +1,4 @@
-# Ejemplo actividad 4
+# Ejemplo para realziar la actividad 4
 # Ejercicio 2: Crear Variables de Vehículo
 # En este ejercicio, se te pide crear variables para almacenar datos sobre un vehículo.
 
@@ -23,3 +23,14 @@ print("Velocidad máxima:", velocidad_maxima, "km/h")
 print("Marca del vehículo:", marca_vehiculo)
 print("¿Es eléctrico?", es_electrico)
 print("Colores disponibles:", colores_disponibles)
+
+
+# La actividad a realizar es:
+# Actividad 4: Ejercicio 1: Crear Variables
+# En este ejercicio, se te pide crear variables para almacenar datos personales.
+# Deberás definir:
+# 1. Tu edad como un número entero (int).
+# 2. Tu altura en metros como un número de punto flotante (float).
+# 3. Tu nombre completo como una cadena de texto (str).
+# 4. Un valor booleano que indique si tienes mascota (bool).
+# 5. Una lista que contenga los nombres de tres amigos (list).

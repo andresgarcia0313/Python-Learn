@@ -18,7 +18,9 @@ def es_mayor_de_edad(edad):
         return False  # Retorna False si no es mayor de edad
 
 # Ejemplo de uso de la función
+
 edad_usuario = 20  # Cambia este valor para probar con diferentes edades
+print("Edad del usuario:", edad_usuario)
 resultado = es_mayor_de_edad(edad_usuario)
 
 # Imprimir el resultado
